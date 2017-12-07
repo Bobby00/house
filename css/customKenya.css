@@ -1,0 +1,27 @@
+.headerImage {
+  background-image: url(../images/md.jpg);
+  width: 100% 100%;
+  height: 400px;
+}
+#nav-resize {
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+.log-float {
+  float: right;
+}
+.chnge-color {
+  margin-bottom: 0px;
+  color: white;
+}
+.before-footer {
+  background-color: black;
+  color: cream;
+  
+}
+footer {
+  background-color: black;
+}
+.row {
+
+}
